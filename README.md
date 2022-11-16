@@ -8,7 +8,7 @@
 </p>
 
 
-<h1 align="center">Bio</h1>
+<h1 align="left">Bio</h1>
 
 <table>
   <tbody>
