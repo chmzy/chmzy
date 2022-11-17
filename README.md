@@ -7,8 +7,8 @@
 <a href="https://www.leetcode.com/chmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chmz" height="40" width="40" /></a>-->
 </p>
 
-[![Telegram](https://img.shields.io/badge/telegram-%40chmzzz-blue)](https://t.me/chmzzz)
-[![Discord](https://img.shields.io/badge/discord-cheems.py%238813-yellow)](https://discord.gg/x7Btpurf)
+[![Telegram](https://img.shields.io/badge/telegram-%40chmzzz-blue?style=flat-square)](https://t.me/chmzzz)
+[![Discord](https://img.shields.io/badge/discord-cheems.py%238813-yellow?style=flat-square)](https://discord.gg/x7Btpurf)
 
 <h2 align="left">Bio</h1>
 
