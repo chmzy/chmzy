@@ -1,14 +1,16 @@
 <h1 align="center">Hello there! I'm Georgiy😄</h1>
 
-<h3 align="left">Contact with me:</h3>
-<p align="left">
+<h2 align="left">Contact with me</h3>
+<!---<p align="left">
 <a href="https://t.me/chmzzz" target="blank"><img align="center" src="https://github.com/chmzy/chmzy/blob/main/images/Telegram_logo.svg.png?raw=true" alt="chmz" height="50" width="50" /></a>
 <a href="https://discord.gg/x7Btpurf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x7Btpurf" height="50" width="50" /></a>
-<!---<a href="https://www.leetcode.com/chmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chmz" height="40" width="40" /></a>-->
+<a href="https://www.leetcode.com/chmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chmz" height="40" width="40" /></a>-->
 </p>
 
+![Telegram](https://img.shields.io/badge/telegram-%40chmzzz-blue)
+![Discord](https://img.shields.io/badge/discord-cheems.py%238813-yellow)
 
-<h1 align="left">Bio</h1>
+<h2 align="left">Bio</h1>
 
 <table>
   <tbody>
@@ -26,25 +28,17 @@
   </tbody>
 </table> 
 
-<!---
-My name is Georgiy. Welcome to my coding dojo.
-* 🎓 Bachelor's degree in Computer Science and Engineering<br> 
-* 🤓 Know how to build RISC-V processor pipepline<br>
-* 🔭 I’m currently looking for **Golang backend** developer job<br>
-* 💻 Working on new projects, especially microservices<br>
-* 🥋 Realy into ancient east culture and Japan itself<br>
--->
 
-<h1 align="left">My recent projects</h3>
+<h2 align="left">My recent projects</h3>
 <p align="center"></p>
 <p>
-  <a href="https://github.com/chmzy/Cyberbot-1.5.1-for-Discord"><img src="https://discordpy.readthedocs.io/en/stable/_images/snake_dark.svg" width="150" height="150"/></a>
+  <a href="https://github.com/chmzy/Cyberbot-1.5.1-for-Discord"><img src="./images/disnake-logo.png" width="150" height="150"/></a>
   <a href="https://github.com/chmzy/kekostan"><img src="https://dunderlabs.github.io/images/posts/python-pdf.jpg" width="200" height="150"/></a>
 </p>
 
 
 
-<h1 align="left">Main technology stack</h3>
+<h2 align="left">Main technology stack</h3>
 <p align="left"> 
 
 * Languages <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br> 
