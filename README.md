@@ -15,15 +15,16 @@
 <table>
   <tbody>
     <tr>
-      <td width="20%" rowspan="2">
+      <td width="20%">
         <img alt="Photo" src="./images/samurai_laptop.jpg" />
-      <td width="40%">
+      <td width="40%" >
  🎓 Bachelor's degree in Computer Science and Engineering<br> 
  🤓 Know how to build RISC-V processor pipepline<br>
  🔭 I’m currently looking for <strong>Golang backend</strong> developer job<br>
  💻 Working on new projects, especially microservices<br>
  🥋 Realy into ancient east culture and Japan itself<br>
       </td>
+     </td>
     </tr>
   </tbody>
 </table> 
