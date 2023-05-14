@@ -33,6 +33,7 @@
 <h2 align="left">My recent projects</h3>
 <p align="center"></p>
 <p>
+  <a href="https://github.com/chmzy/CCache"><img src="./images/taran.png" width="150" height="150"/></a>
   <a href="https://github.com/chmzy/Cyberbot-1.5.1-for-Discord"><img src="./images/disnake-logo.png" width="150" height="150"/></a>
   <a href="https://github.com/chmzy/kekostan"><img src="https://dunderlabs.github.io/images/posts/python-pdf.jpg" width="200" height="150"/></a>
 </p>
